@@ -86,6 +86,12 @@ fqdn.of.ovirt.hypervisor1.com
 fqdn.of.ovirt.hypervisor2.com
 ```
 
+## Run the playbook
+
+```bash
+$ ansible-playbook site.yml -i inventory -vvv
+```
+
 ## Test
 
 This project uses [provision_docker] an ansible role to run oVirt deployment

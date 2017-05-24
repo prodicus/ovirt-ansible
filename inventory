@@ -7,4 +7,4 @@ ovirt_engine_organization=ovirtlinode.gsoc.org
 ovirt_engine_admin_password=secret
 
 [engine]
-ovirtlinode.gsoc.org ansible_ssh_user=root ansible_ssh_pass=Admin123
+ovirtlinode.gsoc.org ansible_ssh_user=root ansible_ssh_pass=yourpass
